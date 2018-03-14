@@ -1,0 +1,4 @@
+INSTRUCTION :
+
+-) First compile the code : javac MainClient.java
+-)	Then run it : java MainClient
